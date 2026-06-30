@@ -6,6 +6,8 @@ def add(x):
 def multi(x):
     return x * 2
 
+
+
 def compose(x):
     return add(multi(x))
 

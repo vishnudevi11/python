@@ -13,3 +13,4 @@ def get_numbers1(n):
 
 for number in get_numbers1(5):
     print(number)
+
